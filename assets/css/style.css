@@ -1,0 +1,119 @@
+@import url('https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Heebo&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+   position: relative;
+}
+
+.background-image{
+    background-image: url("../images/bgimg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    /* background: fixed; */
+}
+
+
+.nav-link{
+       letter-spacing: 8px;
+       font-family: 'bebas Neue' , cursive;
+       font-size: 100%;
+       margin-right: 30px;
+       
+   }
+
+.navbar-brand{
+       font-family: 'bebas Neue' , cursive;
+       font-size: 160%;
+       letter-spacing: 6px;
+       
+   }
+
+.section-heading{
+    font-family: 'bebas Neue' , cursive;
+    letter-spacing: 4px;
+    text-align: center;
+    top: 60px;
+}
+
+.title-name{
+  font-family: 'Heebo', sans-serif;
+  padding-left: 30%;
+  padding-bottom: 30%;
+}
+
+.main-content{ 
+    padding-bottom: 20%;
+    
+}
+
+.list-text{
+    font-family: 'Heebo', sans-serif;
+    letter-spacing: 1px;
+}
+
+.h1-heading{
+    font-family: 'bebas Neue' , cursive;
+    letter-spacing: 3px;
+    text-align: center;
+    text-transform: underline;
+    text-decoration-line: underline;
+}
+
+.h2-heading{
+    font-family: 'bebas Neue' , cursive;
+    letter-spacing: 2px;
+}
+
+.h3-heading{
+    font-family: 'Heebo', sans-serif;
+    font-size: 140%;
+    
+}
+
+.paragraph-text{
+    font-family: 'Heebo', sans-serif;
+    letter-spacing: 1px;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-dark.fixed-top {
+    background-color: #012A47 !important;
+ }
+
+.profile-bgcolor{
+    background-color: #A0DBF2 !important;
+ }
+
+ .keyskills-bgcolor{
+    background-color: #8FD2FC !important;
+ }
+
+ .careerprogression-bgcolor{
+    background-color: #52A5D9 !important;
+ }
+
+ @media screen and (max-width: 480px) {
+    body {
+      background-color: #011C26;
+    }
+    .background-image {
+        background-image: url("../images/mobileimage.jpg");
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        height: 30vh;
+    }
+  }
+
+ 
+
+
