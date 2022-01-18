@@ -1,4 +1,4 @@
-# **Stephen Robinson Portfolio CV Website**
+# **[Stephen Robinson Portfolio CV Website](https://robbo76.github.io/first-milestone-projectv2/)**
 
 Presentation website of Stephen Robinson portfolio, career progression and his future journey. 
 On the completion of his Code Institute Full Stack Developer course where could this lead him. The possibilities would seem to be endless since 
@@ -6,6 +6,8 @@ this could lead Stephen further down the line to a multitude of various industri
 Broadcast, post production world. Some serious thought to be had there for Stephen while he progresses through his Full Stack developers course!
 
 ## **Am I Responsive**
+
+
 
 ![](assets/images/Iamresponsive.png)
 
@@ -35,8 +37,6 @@ and where Stephen could be heading to in the future. Most importantly to achieve
 
 ## **Wireframes**
 
-<img src="assets/wireframes/iphonelayout.png height >
-  
 ![](assets/wireframes/desktoplayout.png)
 ![](assets/wireframes/iphonelayout.png)
 
@@ -63,10 +63,12 @@ This will be a one html page site with 3 sections and smooth scrolling fuctional
 
 Testing tools used 
 
-- W3C Mark Up Validation https://validator.w3.org/
-- Webpage Test https://www.webpagetest.org/
-- Google Chrome DevTools https://developer.chrome.com/docs/devtools/
-- Lighthouse https://developers.google.com/web/tools/lighthouse
+- [W3C Mark Up Validation](https://validator.w3.org/)
+- [Webpage Test](https://www.webpagetest.org/)
+- [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse)
+
+Further testing needed to be carried out for reports to be collected, some hrefs need to be addressed and to upload some screen shots of the reports! 
 
 ## **Features working from user Experiences**  
 - Smooth scrolling function works from the navbar to the 3 different sections
@@ -82,19 +84,18 @@ I used gitpod to create my website and used the publishing source Github.
 
 
 
-## **Credits**
+## **Credits**.   
 
-- Great supportive site to see all HTML and CSS and to have a go aswell https://www.w3schools.com/
+
+- Great supportive site to see all HTML and CSS and to have a go aswell @ [W3 Schools](https://www.w3schools.com/)
 - Code Institute Full Stack Developer Course
-- Adobe stock a great place to pick some nice looking pictures, vast amout to choose from https://stock.adobe.com/uk/
-- Adobe colour wheel a great tool to extract colours and gradients from your pictures, then was able to pick some colours to use through the sites design
-https://stock.adobe.com/uk/
-- Used boostrap throughout the site, bootstrap icons 
-https://getbootstrap.com/
-- Slack a great help, searching slight issues along the way, great community https://slack.com/intl/en-gb/
+- Adobe stock a great place to pick some nice looking pictures, vast amout to choose from [Adobestock](https://stock.adobe.com/uk/)
+- [Adobe colour](https://color.adobe.com/create/color-wheel) wheel a great tool to extract colours and gradients from your pictures, then was able to pick some colours to use through the sites design
+- Used [Boostrap](https://getbootstrap.com/) throughout the site, bootstrap icons 
+- [Slack](https://slack.com/intl/en-gb/) a great help, searching slight issues along the way, great community 
 
 ## **Acknowledgements**
 
-- Paathshala, I followed her video on youtube for the sticky navigation, with the reponsive drop down navbar https://www.youtube.com/watch?v=dfJYFzluikU
-- Milestone 1 Planning with Stephen Seagrave https://www.youtube.com/watch?v=06tXTbm-DxI&list=PL_7334VduOHvzZYlgy_0kZLcic2NINCUt&index=6&t=42s
-- MS1 Preperation and CSS Positioning by Suzy Bennett https://www.youtube.com/watch?v=N4bhJ4u29Do&list=PL_7334VduOHvzZYlgy_0kZLcic2NINCUt&index=23
+- [Paathshala](https://www.youtube.com/watch?v=dfJYFzluikU) I followed her video on youtube for the sticky navigation, with the reponsive drop down navbar 
+- Milestone 1 Planning with [Stephen Seagrave](https://www.youtube.com/watch?v=06tXTbm-DxI&list=PL_7334VduOHvzZYlgy_0kZLcic2NINCUt&index=6&t=42s)
+- MS1 Preperation and CSS Positioning by [Suzy Bennett](https://www.youtube.com/watch?v=N4bhJ4u29Do&list=PL_7334VduOHvzZYlgy_0kZLcic2NINCUt&index=23)
