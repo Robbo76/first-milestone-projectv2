@@ -37,7 +37,7 @@ and where Stephen could be heading to in the future. Most importantly to achieve
 
 ![](images/wireframes/desktoplayout.png)
 ![](images/wireframes/iphonelayout.png)
-
+![](assets/wireframes/desktoplayout.png)
 
 ## **Existing Features**
 
