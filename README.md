@@ -68,7 +68,7 @@ Testing tools used
 - [Google Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse)
 
-## **Known Problems**
+## **Known Problems**.
 
 - Further testing needed to be carried out for reports to be collected, some hrefs need to be addressed and to upload some screen shots of the reports! 
 - Page 404 needs to be styled and the html, finished off, currently not in eorking order
