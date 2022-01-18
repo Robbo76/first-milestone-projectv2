@@ -7,7 +7,7 @@ Broadcast, post production world. Some serious thought to be had there for Steph
 
 ## **Am I Responsive**
 
-![](first-milestone-projectv2/assets/images/Iamresponsive.png)
+![](assets/images/Iamresponsive.png)
 
 ## **UX**
 
