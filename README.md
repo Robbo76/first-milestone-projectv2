@@ -35,9 +35,10 @@ and where Stephen could be heading to in the future. Most importantly to achieve
 
 ## **Wireframes**
 
-![](images/wireframes/desktoplayout.png)
-![](images/wireframes/iphonelayout.png)
+<img src="assets/wireframes/iphonelayout.png height >
+  
 ![](assets/wireframes/desktoplayout.png)
+![](assets/wireframes/iphonelayout.png)
 
 ## **Existing Features**
 
