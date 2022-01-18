@@ -35,6 +35,9 @@ and where Stephen could be heading to in the future. Most importantly to achieve
 
 ## **Wireframes**
 
+![](images/wireframes/desktoplayout.png)
+![](images/wireframes/iphonelayout.png)
+
 
 ## **Existing Features**
 
